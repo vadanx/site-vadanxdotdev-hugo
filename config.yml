@@ -1,0 +1,31 @@
+---
+baseURL: https://vadanx.dev/
+
+languageCode: en-us
+
+params:
+  defaultTheme: auto
+  disableThemeToggle: false
+  profileMode:
+    enabled: true
+    subtitle: links
+    imageUrl: images/avatar.png
+    imageTitle: I'm not a cat
+    imageWidth: 256
+    imageHeight: 256
+  ShowCodeCopyButtons: true
+  ShowReadingTime: true
+  ShowShareButtons: false
+  socialIcons:
+  - name: email
+    url: mailto:andrew@vadanx.dev
+  - name: github
+    url: https://github.com/vadanx
+  - name: linkedin
+    url: https://www.linkedin.com/in/vadanx
+  - name: reddit
+    url: https://www.reddit.com/user/vadanx
+
+theme: PaperMod
+
+title: vadanx.dev
