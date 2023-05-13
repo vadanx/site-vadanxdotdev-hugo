@@ -1,1 +1,1 @@
-# site-vadanxdotdev-hugo
+# site-vadanxdotdev
