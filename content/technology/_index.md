@@ -2,4 +2,3 @@
 menu: "main"
 title: "Technology"
 ---
-
