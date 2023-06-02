@@ -1,4 +1,4 @@
-# site-vadanxdotdev
+# site-vadanxdotdev-hugo
 ## Setup
 ### Install
 | name | version |
